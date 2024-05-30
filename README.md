@@ -36,8 +36,9 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 |-|-|-|-|
 |[Teles](https://www.linkedin.com/in/jotateles/)| Dev Frontend Senior| Melhorar currículo, Melhorar LinkedIn, Conversar, Traduzir currículo para inglês| [Maio, 2024](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)|
 
-### Mentoria
+### Mentoria e outras dicas
 - [Dicas para criar um bom currículo](https://github.com/ManiMozaffar/awesome-resumes) - 🇬🇧 Somente em inglês 
+- [Dicas para trabalho remoto](https://github.com/DyegoCosta/trabalhando-remoto)
 - [Mentoria Training Center](https://github.com/training-center/mentoria)
 
 ### Tendências salariais
