@@ -1,4 +1,4 @@
-# Me demitiram, e agora?
+# Fui demitido(a), e agora?
 
 Você não está sozinho(a), nessa! 
 Esse repositório visa agrupar links, informações e contatos que possam te ajudar a passar por esse momento pensando em sua realocação, preparação e desenvolvimento profissional.
