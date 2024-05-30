@@ -32,9 +32,9 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 
 ## Lista de Pessoas que Podem Ajudar
 
-| Nome | Ajuda | Adicionado em|
-|-|-|-|
-|[Teles](https://www.linkedin.com/in/jotateles/)| Melhorar currículo, Melhorar LinkedIn, Conversar, Traduzir currículo para inglês| [Maio, 2024](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)|
+| Nome | Profissão | Ajuda | Adicionado em|
+|-|-|-|-|
+|[Teles](https://www.linkedin.com/in/jotateles/)| Dev Frontend Senior| Melhorar currículo, Melhorar LinkedIn, Conversar, Traduzir currículo para inglês| [Maio, 2024](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)|
 
 ### Mentoria
 - [Mentores e recursos](#)
