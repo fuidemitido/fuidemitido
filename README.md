@@ -28,11 +28,7 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 
 ## Dicas de LinkedIn
 ### Otimização de perfil
-- [Guia de otimização](#)
 - [Your Social Selling Index](https://www.linkedin.com/sales/ssi)
-
-### Networking
-- [Estratégias para networking](#)
 
 ## Lista de Pessoas que Podem Ajudar
 
@@ -40,17 +36,9 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 |-|-|-|
 |[Teles](https://www.linkedin.com/in/jotateles/)| Melhorar currículo, Melhorar LinkedIn, Conversar, Traduzir currículo para inglês| [Maio, 2024](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)|
 
-
-### Ajuda a melhorar currículo
-- [Voluntários e profissionais](#)
-
-### Ajuda a se preparar para entrevistas
+### Mentoria
 - [Mentores e recursos](#)
 - [Mentoria Training Center](https://github.com/training-center/mentoria)
-
-## Informações sobre Pesquisa Salarial
-### Ferramentas de pesquisa salarial
-- [Links para ferramentas](#)
 
 ### Tendências salariais
 - [Relatórios anuais](https://pesquisa.codigofonte.com.br/2024)
