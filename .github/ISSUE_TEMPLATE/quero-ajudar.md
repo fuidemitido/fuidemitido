@@ -1,6 +1,6 @@
 ---
-name: Quero ajudar
-about: Descreva aqui como você pode ajudar
+name: Quero ajudar na preparação para novas vagas
+about: Descreva aqui como você pode ajudar: entrevista técnica, inglês, conversa, vagas, etc
 title: "[Quero Ajudar] - Meu nome"
 labels: ''
 assignees: ''
