@@ -3,6 +3,8 @@
 Você não está sozinho(a), nessa! 
 Esse repositório visa agrupar links, informações e contatos que possam te ajudar a passar por esse momento pensando em sua realocação, preparação e desenvolvimento profissional.
 
+[Quero Ajudar](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)
+
 ## Seus Direitos
 
 ### Cálculo FGTS e rescisão
@@ -34,6 +36,9 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 
 ## Lista de Pessoas que Podem Ajudar
 
+| Nome | Ajuda | Adicionado em|
+|-|-|-|
+|[Teles](https://www.linkedin.com/in/jotateles/)| Melhorar currículo, Melhorar LinkedIn, Conversar, Traduzir currículo para inglês| [Maio, 2024](https://github.com/me-demitiram-e-agora/me-demitiram-e-agora/issues/1)|
 
 
 ### Ajuda a melhorar currículo
