@@ -16,11 +16,12 @@ Esse repositório visa agrupar links, informações e contatos que possam te aju
 ## Vagas na tecnologia
 
 ### Vagas específicas
-- [Vagas Vue JS](https://github.com/vuejs-br/vagas)
-- [Vagas Frontend](https://github.com/frontendbr/vagas)
+- [Empresas que contratam remoto](https://github.com/lerrua/remote-jobs-brazil)
 - [Vagas Backend](https://github.com/backend-br/vagas)
+- [Vagas Frontend](https://github.com/frontendbr/vagas)
 - [Vagas Design e UX](https://github.com/remotejobsbr/design-ux-vagas)
 - [Vagas React](https://github.com/react-brasil/vagas)
+- [Vagas Vue JS](https://github.com/vuejs-br/vagas)
 
 ### Vagas internacionais
 - [🇵🇹 Vagas Frontend Portugal](https://github.com/frontend-pt/vagas)
